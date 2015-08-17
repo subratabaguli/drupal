@@ -5,5 +5,5 @@ yum install -y newrelic-php5 || true
 
 export NR_INSTALL_SILENT=true
 export NR_INSTALL_KEY=your_new_relic_key_here
-#export NR_INSTALL_KEY=5f6382f530d21ea4bb01ad6101bfe4d04e0feab1
+
 newrelic-install install
