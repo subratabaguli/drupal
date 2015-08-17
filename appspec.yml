@@ -30,7 +30,7 @@ hooks:
 
     - location: scripts/copysettings.sh
       timeout: 120
-	  
+
   #
   # ApplicationStart - you typically use the ApplicationStart
   # deployment lifecycle event to restart services that were stopped
